@@ -1,0 +1,14 @@
+{
+  "local": {
+    "url_countries": "https://restcountries.eu/rest/v2/all"
+  },
+  "dev": {
+    "url_countries": "https://restcountries.eu/rest/v2/all"
+  },
+  "test": {
+    "url_countries": "https://restcountries.eu/rest/v2/all"
+  },
+  "prod": {
+    "url_countries": "https://restcountries.eu/rest/v2/all"
+  }
+}
